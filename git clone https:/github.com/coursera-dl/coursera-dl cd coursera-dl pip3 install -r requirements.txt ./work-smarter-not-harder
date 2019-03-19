@@ -1,0 +1,4 @@
+git clone https://github.com/coursera-dl/coursera-dl
+cd coursera-dl
+pip3 install -r requirements.txt
+./coursera-dl -u <elzoz2018@gmail.com> -p <01121556615> --english-language en work-smarter-not-harder 
